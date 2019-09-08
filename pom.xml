@@ -12,6 +12,7 @@
     <modules>
         <module>serverone</module>
         <module>servertwo</module>
+        <module>springboot-tx-manager</module>
     </modules>
 
     <parent>
@@ -60,6 +61,17 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-aspects</artifactId>
+            <version>5.1.9.RELEASE</version>
+        </dependency>
+<!--        分布式事务依赖-->
+        <dependency>
+            <groupId>com.codingapi.txlcn</groupId>
+            <artifactId>txlcn-tm</artifactId>
+            <version>5.0.2.RELEASE</version>
         </dependency>
     </dependencies>
 
