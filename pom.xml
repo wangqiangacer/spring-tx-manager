@@ -12,7 +12,8 @@
     <modules>
         <module>serverone</module>
         <module>servertwo</module>
-        <module>springboot-tx-manager</module>
+        <module>tx-manager</module>
+
     </modules>
 
     <parent>
@@ -26,24 +27,20 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-
-        <!-- mybatis依赖 -->
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>
             <artifactId>mybatis-spring-boot-starter</artifactId>
             <version>1.3.1</version>
         </dependency>
-
-        <!-- 引入thymelaf 则不需要引入web依赖，若不需要thymelaf则需要添加spring-boot-starter-web -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
         </dependency>
-
         <!-- mysql依赖 -->
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.17</version>
         </dependency>
 
         <dependency>
@@ -67,15 +64,7 @@
             <artifactId>spring-aspects</artifactId>
             <version>5.1.9.RELEASE</version>
         </dependency>
-<!--        分布式事务依赖-->
-        <dependency>
-            <groupId>com.codingapi.txlcn</groupId>
-            <artifactId>txlcn-tm</artifactId>
-            <version>5.0.2.RELEASE</version>
-        </dependency>
     </dependencies>
-
-
     <build>
         <plugins>
             <!-- 要使生成的jar可运行，需要加入此插件 -->

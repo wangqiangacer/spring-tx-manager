@@ -17,7 +17,7 @@ public class UserController {
     private static final Logger logger = LoggerFactory.getLogger(UserController.class);
     @RequestMapping("server1")
     public  String getUser(){
-        HttpClientUtils.get("http://127.0.0.1:8082/server2");
+         HttpClientUtils.get("http://127.0.0.1:8082/server2");
         logger.info("server1 get server2 result is  success");
         return "server1 执行完成！";
     }
@@ -25,8 +25,6 @@ public class UserController {
     @RequestMapping("/insert")
     public  String insert(String name){
         userService.insert(name);
-        HttpClientUtils.get("http://127.0.0.1:8082/server2");
-        int i=1/0;
         return "SUCCESS";
     }
 }

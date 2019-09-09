@@ -21,7 +21,7 @@ import java.util.ArrayList;
  */
 public class HttpClientUtils {
     public static void main(String[] args) {
-        get("https://www.baidu.com");
+         get("https://www.baidu.com");
     }
     public static void get(String url ) {
         //创建默认连接
@@ -41,6 +41,7 @@ public class HttpClientUtils {
             String result = null;
             try {
                 result = EntityUtils.toString(entity, "UTF-8");
+
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -52,7 +53,7 @@ public class HttpClientUtils {
         //创建默认连接
         CloseableHttpClient httpClient = HttpClients.createDefault();
         HttpPost httpPost = new HttpPost(url);
-        ArrayList<NameValuePair> nameValuePairs = new ArrayList<>();
+        ArrayList<NameValuePair> nameValuePairs = new ArrayList<NameValuePair>();
         nameValuePairs.add(new BasicNameValuePair("username","lisi"));
         try {
             UrlEncodedFormEntity urlEncodedFormEntity = new UrlEncodedFormEntity(nameValuePairs, "UTF-8");

@@ -1,12 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa4d27fe-d205-4549-b610-1050876d23ec" name="Default Changelist" comment="" />
+    <list default="true" id="fa4d27fe-d205-4549-b610-1050876d23ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/service/Impl/TxManagerHttpRequestServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/service/Impl/TxManagerTxUrlServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/serverone/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/service/Impl/TxManagerHttpRequestServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/service/Impl/TxManagerTxUrlServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servertwo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka/src/main/java/com/jacken/springeureka/SpringEurekaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka/src/test/java/com/jacken/springeureka/SpringEurekaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tx-manager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverone/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/serverone/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/Server1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/Server1Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/service/Impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/utils/HttpClientUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/utils/HttpClientUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverone/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/serverone/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverone/target/classes/META-INF/serverone.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverone/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/serverone/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverone/target/classes/cn/jacken/Server1Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/serverone/target/classes/cn/jacken/Server1Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverone/target/classes/cn/jacken/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/serverone/target/classes/cn/jacken/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverone/target/classes/cn/jacken/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/serverone/target/classes/cn/jacken/domain/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverone/target/classes/cn/jacken/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/serverone/target/classes/cn/jacken/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverone/target/classes/cn/jacken/service/Impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/serverone/target/classes/cn/jacken/service/Impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serverone/target/classes/cn/jacken/utils/HttpClientUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/serverone/target/classes/cn/jacken/utils/HttpClientUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servertwo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/servertwo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/Server2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/Server2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/service/Impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/service/Impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/utils/HttpClientUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/utils/HttpClientUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servertwo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/servertwo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servertwo/target/classes/META-INF/servertwo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servertwo/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/servertwo/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servertwo/target/classes/cn/jacken/Server2Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/servertwo/target/classes/cn/jacken/Server2Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servertwo/target/classes/cn/jacken/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/servertwo/target/classes/cn/jacken/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servertwo/target/classes/cn/jacken/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/servertwo/target/classes/cn/jacken/domain/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servertwo/target/classes/cn/jacken/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/servertwo/target/classes/cn/jacken/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servertwo/target/classes/cn/jacken/service/Impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/servertwo/target/classes/cn/jacken/service/Impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servertwo/target/classes/cn/jacken/utils/HttpClientUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/servertwo/target/classes/cn/jacken/utils/HttpClientUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-tx-manager.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-manager/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tx-manager/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tx-manager/src/main/resources/banner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tx-manager/src/main/resources/banner.txt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/server-one/target/" />
     <ignored path="$PROJECT_DIR$/servertwo/target/" />
     <ignored path="$PROJECT_DIR$/serverone/target/" />
+    <ignored path="$PROJECT_DIR$/spring-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/tx-manager/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,29 +70,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/serverone/src/main/java/cn/jacken/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            <state relative-caret-position="364">
+              <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/serverone/src/main/java/cn/jacken/Server1Application.java">
+        <entry file="file://$PROJECT_DIR$/servertwo/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-              <folding>
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="27">
+              <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -44,76 +95,48 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/Server2Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+            <state relative-caret-position="270">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/domain/User.java">
+        <entry file="file://$PROJECT_DIR$/serverone/src/main/java/cn/jacken/utils/HttpClientUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="34">
+              <caret line="59" column="53" lean-forward="true" selection-start-line="59" selection-start-column="53" selection-end-line="59" selection-end-column="53" />
+              <folding>
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#807#808#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/servertwo/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/tx-manager/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+            <state relative-caret-position="-81">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/serverone/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/service/Impl/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" selection-start-line="6" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="378">
+              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="17" selection-start-line="17" selection-end-line="21" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/serverone/src/main/java/cn/jacken/mapper/UserMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -121,13 +144,43 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/serverone/src/main/java/cn/jacken/service/Impl/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="486">
+              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.3.13.RELEASE/spring-tx-4.3.13.RELEASE.jar!/org/springframework/transaction/annotation/Transactional.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-202">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/serverone/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -141,26 +194,46 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tx-manager</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/Server1Application.java" />
         <option value="$PROJECT_DIR$/serverone/src/main/java/jacken/Server1Application.java" />
         <option value="$PROJECT_DIR$/serverone/src/main/java/jacken/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/utils/HttpClientUtils.java" />
-        <option value="$PROJECT_DIR$/servertwo/pom.xml" />
-        <option value="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/utils/HttpClientUtils.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/domain/User.java" />
         <option value="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/mapper/UserMapper.java" />
-        <option value="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/service/Impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/domain/User.java" />
-        <option value="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/service/Impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/utils/HttpClientUtils.java" />
+        <option value="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/Server1Application.java" />
+        <option value="$PROJECT_DIR$/spring-eureka/src/main/java/com/jacken/springeureka/SpringEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/spring-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-eureka/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/serverone/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/servertwo/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/Server2Application.java" />
+        <option value="$PROJECT_DIR$/serverone/pom.xml" />
+        <option value="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/service/Impl/TxManagerHttpRequestServiceImpl.java" />
+        <option value="$PROJECT_DIR$/servertwo/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/tx-manager/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/serverone/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/servertwo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/utils/HttpClientUtils.java" />
         <option value="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/service/Impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/serverone/src/main/java/cn/jacken/service/Impl/UserServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -171,206 +244,27 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="976" />
-    <option name="height" value="1056" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="414" />
+    <option name="y" value="201" />
+    <option name="width" value="927" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="serverone" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="serverone" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="serverone" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="serverone" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="serverone" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jacken" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="serverone" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jacken" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="serverone" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jacken" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="serverone" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jacken" type="462c0819:PsiDirectoryNode" />
-              <item name="Impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="serverone" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jacken" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="serverone" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="servertwo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="servertwo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="servertwo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="servertwo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="servertwo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jacken" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="servertwo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jacken" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="servertwo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jacken" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="servertwo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jacken" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="servertwo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jacken" type="462c0819:PsiDirectoryNode" />
-              <item name="Impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="servertwo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jacken" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-tx-manager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-tx-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="servertwo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -384,7 +278,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/servertwo/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -395,12 +289,19 @@
       <recent name="cn.jacken.utils" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\code\spring-tx-manager\servertwo\src\main\resources" />
+      <recent name="C:\Users\Administrator\Desktop\code\spring-tx-manager\servertwo\src\main\java\cn\jacken\service\Impl" />
+      <recent name="C:\Users\Administrator\Desktop\code\spring-tx-manager\serverone\src\main\java\cn\jacken\service\Impl" />
       <recent name="C:\Users\wangqiang\Desktop\spring-tx-manager\serverone\src\main\java\cn" />
       <recent name="C:\Users\wangqiang\Desktop\spring-tx-manager\serverone\src\main\java" />
-      <recent name="C:\Users\wangqiang\Desktop\spring-tx-manager\serverone\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -411,8 +312,22 @@
         </RuleState>
       </list>
     </option>
+    <option name="contentProportion" value="0.14339827" />
   </component>
   <component name="RunManager" selected="Spring Boot.Server2Application">
+    <configuration name="HttpClientUtils (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.jacken.utils.HttpClientUtils" />
+      <module name="serverone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.jacken.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HttpClientUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.jacken.utils.HttpClientUtils" />
       <module name="servertwo" />
@@ -422,6 +337,26 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="serverone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.jacken.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.jacken.Server1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server2Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servertwo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.jacken.Server2Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -446,8 +381,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jacken.springeureka.SpringEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TxManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tx-manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingapi.tm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codingapi.tm.TxManagerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.TxManagerApplication" />
+        <item itemvalue="Spring Boot.Server1Application" />
+        <item itemvalue="Application.HttpClientUtils (1)" />
         <item itemvalue="Spring Boot.Server2Application" />
         <item itemvalue="Application.HttpClientUtils" />
       </list>
@@ -464,103 +422,78 @@
       <option name="presentableId" value="Default" />
       <updated>1567937196925</updated>
       <workItem from="1567937199138" duration="4061000" />
+      <workItem from="1567990986958" duration="7406000" />
+      <workItem from="1568008580777" duration="9301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4061000" />
+    <option name="totallyTimeSpent" value="20768000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22974414" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26439232" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.60238355" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="LuaCheck" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32502708" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18655097" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29826465" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.21475054" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="LuaCheck" order="15" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.14425163" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.06076759" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/service/Impl/UserServiceImpl.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/serverone/src/main/java/cn/jacken/service/Impl/UserServiceImpl.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/serverone/src/main/java/jacken/Server2Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding>
-            <element signature="e#302#303#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/serverone/src/main/java/jacken/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding>
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/serverone/src/main/java/cn/jacken/utils/HttpClientUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/serverone/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/utils/HttpClientUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/serverone/src/main/java/jacken/Server2Application.java" />
+    <entry file="file://$PROJECT_DIR$/serverone/src/main/java/jacken/controller/UserController.java" />
     <entry file="file://$PROJECT_DIR$/serverone/src/main/java/cn/jacken/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -581,103 +514,324 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/servertwo/pom.xml">
+    <entry file="file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        <state relative-caret-position="243">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/serverone/src/main/java/cn/jacken/mapper/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/service/Impl/UserServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/utils/HttpClientUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="683">
+          <caret line="61" column="81" selection-start-line="61" selection-start-column="81" selection-end-line="61" selection-end-column="81" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#2107#2122#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/serverone/src/main/java/cn/jacken/service/Impl/UserServiceImpl.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.17/mysql-connector-java-8.0.17.jar!/com/mysql/cj/jdbc/exceptions/SQLError.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="98">
+          <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/domain/User.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="40" column="44" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-eureka/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-eureka/src/main/java/com/jacken/springeureka/SpringEurekaApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/serverone/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        <state relative-caret-position="641">
+          <caret line="29" column="65" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codingapi/tx-client/4.1.0/tx-client-4.1.0.jar!/com/codingapi/tx/config/service/TxManagerTxUrlService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codingapi/tx-client/4.1.0/tx-client-4.1.0.jar!/com/codingapi/tx/annotation/TxTransaction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverone/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servertwo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/service/Impl/TxManagerHttpRequestServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/service/Impl/TxManagerTxUrlServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.13.RELEASE/spring-core-4.3.13.RELEASE.jar!/org/springframework/util/PropertyPlaceholderHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servertwo/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="65" column="21" lean-forward="true" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/RestConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/ServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-258">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/redis/JedisClusterConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/redis/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/redis/RedisProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/redis/service/impl/RedisServerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1473">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/netty/handler/TxCoreServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1932">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/java/com/codingapi/tm/TxManagerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding>
+            <element signature="e#421#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/1991wangliang/lorne_core/1.0.0/lorne_core-1.0.0.jar!/com/lorne/core/framework/utils/http/HttpUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/serverone/src/main/java/cn/jacken/Server1Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
           <folding>
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/servertwo/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/serverone/src/main/java/cn/jacken/service/Impl/TxManagerHttpRequestServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        <state relative-caret-position="478">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/Server2Application.java">
+    <entry file="file://$PROJECT_DIR$/serverone/src/main/java/cn/jacken/service/Impl/TxManagerTxUrlServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        <state relative-caret-position="297">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverone/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servertwo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverone/src/main/java/cn/jacken/utils/HttpClientUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="59" column="53" lean-forward="true" selection-start-line="59" selection-start-column="53" selection-end-line="59" selection-end-column="53" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tx-manager/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="17" selection-start-line="17" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/serverone/src/main/java/cn/jacken/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        <state relative-caret-position="364">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/Server2Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.3.13.RELEASE/spring-tx-4.3.13.RELEASE.jar!/org/springframework/transaction/annotation/Transactional.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-202">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverone/src/main/java/cn/jacken/service/Impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servertwo/src/main/java/cn/jacken/service/Impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

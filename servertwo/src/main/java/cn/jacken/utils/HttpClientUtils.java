@@ -59,7 +59,7 @@ public class HttpClientUtils {
         //创建默认连接
         CloseableHttpClient httpClient = HttpClients.createDefault();
         HttpPost httpPost = new HttpPost(url);
-        ArrayList<NameValuePair> nameValuePairs = new ArrayList<>();
+        ArrayList<NameValuePair> nameValuePairs = new ArrayList<NameValuePair>();
         nameValuePairs.add(new BasicNameValuePair("username","lisi"));
         try {
             UrlEncodedFormEntity urlEncodedFormEntity = new UrlEncodedFormEntity(nameValuePairs, "UTF-8");
